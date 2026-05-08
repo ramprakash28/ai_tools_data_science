@@ -64,7 +64,7 @@ Visual references — UI screenshots, output samples, charts, or any visuals tha
 
 | Tool | Category | Type |
 |---|---|---|
-| *(tools will be added here as folders are created)* | | |
+| [Deepnote](./deepnote/) | Collaborative Notebooks | Freemium |
 
 ---
 
