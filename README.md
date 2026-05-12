@@ -66,6 +66,7 @@ Visual references — UI screenshots, output samples, charts, or any visuals tha
 |---|---|---|
 | [Deepnote](./deepnote/) | Collaborative Notebooks | Freemium |
 | [Hex](./hex_tech/) | AI Data Workspace | Freemium |
+| [Julius AI](./julius_ai/) | Conversational AI Analyst | Freemium |
 
 ---
 
