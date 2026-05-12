@@ -1,0 +1,33 @@
+column,dtype
+Employee ID,Int64
+StartDate,datetime64[ns]
+Title,string
+BusinessUnit,string
+EmployeeStatus,string
+EmployeeType,string
+PayZone,string
+EmployeeClassificationType,string
+DepartmentType,string
+Division,string
+DOB,datetime64[ns]
+State,string
+GenderCode,string
+RaceDesc,string
+MaritalDesc,string
+Performance Score,string
+Current Employee Rating,Int64
+Survey Date,datetime64[ns]
+Engagement Score,Int64
+Satisfaction Score,Int64
+Work-Life Balance Score,Int64
+Training Date,datetime64[ns]
+Training Program Name,string
+Training Type,string
+Training Outcome,string
+Training Duration(Days),Int64
+Training Cost,float64
+Age,Int64
+tenure_years,float64
+age_check,float64
+days_since_training,Int64
+age_match_flag,boolean
